@@ -1,0 +1,19 @@
+
+*** These modified files were found in JOE when it aborted on Mon Oct 19 18:12:16 2020
+*** JOE was aborted by UNIX signal 15
+
+*** File '(Unnamed)'
+/root/.gitconfig
+
+*** File '/root/.gitconfig'
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = root
+#	email = cf19naim.gomez@iesjoandaustria.org
+d
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
